@@ -10,10 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f7d10c4-92d6-444b-ab32-1c8aaac9e513" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/rest/exception_handling/EmployeeGlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/rest/exception_handling/EmployeeIncorrectData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/rest/exception_handling/NoSuchEmployeeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/rest/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/rest/controller/MyRestController.java" afterDir="false" />
     </list>
@@ -164,7 +160,7 @@
       <updated>1688723744029</updated>
       <workItem from="1688723747539" duration="474000" />
       <workItem from="1688797537316" duration="3924000" />
-      <workItem from="1688805073069" duration="211000" />
+      <workItem from="1688805073069" duration="1185000" />
     </task>
     <servers />
   </component>
