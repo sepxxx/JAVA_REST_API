@@ -1,0 +1,10 @@
+_1_
+1)создать класс EmployeeIncorrectData с полем String info
+2)класс NoSuchEmployeeException c стандартным конструктором
+3)в методе получения Employee выкидывать ошибку при null
+4)создать ExceptionHandler для случая когда нет айди
+метод возвращает ResponseEntity <Класс для некорректных данных>
+принимает NoSuchEmployeeException
+создается объект  EmployeeIncorrectData, в поле info помещается сообщение из ошибки
+5)создать ExceptionHandler для случая когда не корректно введен
+
